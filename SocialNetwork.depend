@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1472911741 source:c:\users\pasta\desktop\c++practice\socialnetwork\graph.cpp
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	"Graph.h"
+	"LinkedList.h"
+
+1472934622 source:c:\users\pasta\desktop\c++practice\socialnetwork\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdbool.h>
+	"Trie.h"
+	"Graph.h"
+
+1472911741 source:c:\users\pasta\desktop\c++practice\socialnetwork\linkedlist.cpp
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	"LinkedList.h"
+
+1472911741 c:\users\pasta\desktop\c++practice\socialnetwork\linkedlist.h
+
+1472911467 c:\users\pasta\desktop\c++practice\socialnetwork\graph.h
+	"LinkedList.h"
+
+1472911417 c:\users\pasta\desktop\c++practice\socialnetwork\trie.h
+
+1472934448 source:c:\users\pasta\desktop\c++practice\socialnetwork\trie.cpp
+	<stdlib.h>
+	<stdbool.h>
+	"Trie.h"
+
+1473013298 source:c:\users\pasta\desktop\git\socialnetwork\graph.cpp
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	"Graph.h"
+	"LinkedList.h"
+
+1473013298 c:\users\pasta\desktop\git\socialnetwork\graph.h
+	"LinkedList.h"
+	"Trie.h"
+
+1473012782 c:\users\pasta\desktop\git\socialnetwork\linkedlist.h
+	"Trie.h"
+
+1473012782 source:c:\users\pasta\desktop\git\socialnetwork\linkedlist.cpp
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	"LinkedList.h"
+
+1473012782 source:c:\users\pasta\desktop\git\socialnetwork\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdbool.h>
+	"Trie.h"
+	"Graph.h"
+
+1473012782 c:\users\pasta\desktop\git\socialnetwork\trie.h
+
+1473013317 source:c:\users\pasta\desktop\git\socialnetwork\trie.cpp
+	<stdlib.h>
+	<stdbool.h>
+	"Trie.h"
+
